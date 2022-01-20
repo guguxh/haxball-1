@@ -18,7 +18,9 @@ npm install
 
 ```bash
 cd haxball
-# edit haxball.js - add proper token
+# edit haxball.js - create a new headless token
+nano haxball.js
+# ...
 nodejs bot.js
-` `
+```
 
