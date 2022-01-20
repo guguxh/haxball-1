@@ -19,6 +19,6 @@ cd haxball
 # edit haxball.js - create a new headless token
 nano haxball.js
 # ...
-nodejs bot.js
+nodejs haxball.js
 ```
 
